@@ -4,3 +4,7 @@ shose
 t shirt
 tea cup
 mouse
+
+hard
+pen
+book
